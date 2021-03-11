@@ -19,3 +19,5 @@
 `.concat()`: Fusionne un ou plusieurs tableaux en les concaténant. Cette méthode **ne modifie pas les tableaux existants**, elle renvoie un tableau qui est le résultat de l'opération.
 
 `.trim()`: Permet de retirer les blancs en début et fin de chaîne (espace, tabulation ect.).
+
+---
