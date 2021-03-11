@@ -2,7 +2,7 @@
 
 ## Strings useful methods :
 
-`.includes()`: Détermine si un tableau contient une valeur et renvoie `true` si c'est le cas, `false` sinon.
+`.includes()`: Détermine si un tableau contient une valeur et renvoie true si c'est le cas, false sinon.
 
 `.slice()`: Extrait une section d'une chaine de caractères sans la modifier.
 
