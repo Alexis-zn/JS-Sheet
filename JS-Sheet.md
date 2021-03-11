@@ -2,9 +2,9 @@
 
 ## Strings methods
 
-`.slice()`: Extrait une section d'une chaine de caractères **sans la modifier**.
+`slice()`: Extrait une section d'une chaine de caractères **sans la modifier**.
 
-`.charAt()`: Retourne le caractère à la position indiquée en argument.
+`charAt()`: Retourne le caractère à la position indiquée en argument.
 
 `split()`: Divise une chaîne de caractères à partir d'un séparateur pour fournir un tableau de sous-chaînes.
 
@@ -26,22 +26,24 @@
 
 `filter()`: Crée et retourne un nouveau tableau contenant **tous les éléments du tableau** d'origine qui remplissent une condition déterminée par la fonction.
 
-`forEach()`: Permet d'exécuter une fonction donnée sur chaque élément du tableau
+`forEach()`: Permet d'exécuter une fonction donnée sur **chaque élément du tableau**.
 
-`sort()`:
+`sort()`: Trie les éléments d'un tableau, dans ce même tableau, et le renvoie. Par défaut, le tri s'effectue selon les valeurs des unités de code UTF-16 des caractères.
 
-`reverse`:
+`reverse`: Transopose les éléments d'un tableau: le **premier** élément devient le **dernier** et le **dernier** devient le **premier**, et ainsi de suite.
 
-`join()`:
+`join()`: Crée et renvoie une nouvelle chaîne de caractères en concaténant tous les éléments d'un tableau.
 
-`pop()`:
+`pop()`: **Supprime** le dernier élément d'un tableau et retourne cet élément.
 
-`push()`:
+`push()`: **Ajoute** un ou plusieurs éléments à la fin d'un tableau et retourne la nouvelle taille du tableau.
 
-`shift()`:
+`shift()`: Permet de **retirer le premier élément** d'un tableau et de renvoyer cet élément.
 
-`toString()`:
+`toString()`: Renvoie une chaîne de caractères représentant l'objet.
 
 `.includes()`: Détermine si un tableau contient une valeur et renvoie **true** si c'est le cas, **false** sinon.
 
 `concat()`: Fusionne un ou plusieurs tableaux en les concaténant. Cette méthode **ne modifie pas les tableaux existants**, elle renvoie un tableau qui est le résultat de l'opération.
+
+---
