@@ -2,7 +2,7 @@
 
 ## Strings methods
 
-`slice()`: Extrait une section d'une chaine de caractères **sans la modifier**.
+`slice()`: Extrait une section d'une chaine de caractères <span style="color:blue">sans la modifier.</span>
 
 `charAt()`: Retourne le caractère à la position indiquée en argument.
 
