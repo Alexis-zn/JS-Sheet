@@ -1,6 +1,6 @@
-# JavaScript Sheet
+# JavaScript Methods
 
-## Strings methods :
+## Strings methods
 
 `.slice()`: Extrait une section d'une chaine de caractères **sans la modifier**.
 
@@ -18,7 +18,7 @@
 
 ---
 
-## Array methods:
+## Array methods
 
 `reduce()`: Applique une fonction qui est un **accumulateur** et qui traite chaque valeur d'une liste afin de la réduire à une seule valeur.
 
