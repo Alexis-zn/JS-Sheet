@@ -2,7 +2,7 @@
 
 ## Strings methods
 
-`slice()`: Extrait une section d'une chaine de caractères <span style="color:blue">sans la modifier.</span>
+`slice()`: Extrait une section d'une chaine de caractères **sans la modifier**.
 
 `charAt()`: Retourne le caractère à la position indiquée en argument.
 
@@ -47,3 +47,5 @@
 `concat()`: Fusionne un ou plusieurs tableaux en les concaténant. Cette méthode **ne modifie pas les tableaux existants**, elle renvoie un tableau qui est le résultat de l'opération.
 
 ---
+
+<span style="color:blue">
